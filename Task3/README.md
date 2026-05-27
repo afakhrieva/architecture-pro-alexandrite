@@ -229,3 +229,7 @@ Grafana Alertmanager поддерживает: Email, Slack, Telegram. Реко�
 ![jewelry_alerting.png](jewelry_alerting.png)
 
 ## Задание 3.1. Трейсинг с OpenTelemetry и Jaeger
+
+![Screenshot 2026-05-27 at 21.27.39.png](jaeger-screenshots/Screenshot%202026-05-27%20at%2021.27.39.png)
+
+![Screenshot 2026-05-27 at 21.27.53.png](jaeger-screenshots/Screenshot%202026-05-27%20at%2021.27.53.png)
