@@ -1,0 +1,18 @@
+apiVersion: jaegertracing.io/v1
+kind: Jaeger
+metadata:
+  name: simplest
+spec:
+  strategy: allInOne
+  storage:
+    type: memory
+    options:
+      memory:
+        max-traces: 100000
+  allInOne:
+    options:
+      collector:
+        otlp:
+          enabled: true
+  ingress:
+    enabled: false
