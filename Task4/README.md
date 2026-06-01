@@ -150,6 +150,12 @@
 - Сервисы отправляют логи в Logstash OSS по протоколу GELF (порт 12201) или HTTP.
 - Logstash OSS парсит, обогащает и отправляет логи в OpenSearch по HTTPS.
 
+### Ссылка на диаграмму
+
+[jewerly_c4_model_logging.drawio](jewerly_c4_model_logging.drawio) - страница Logging
+
+![jewelry_logging.png](jewelry_logging.png)
+
 ## 5. Политика безопасности
 
 **Доступ к логам:**
